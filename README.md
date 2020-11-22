@@ -20,18 +20,18 @@ Current methods are using PCs running either Windows or perhaps Linux. These mac
 
 ---
 
-## MUSTs and MUST NOTs
+## **MUST(NOT)**, **SHOULD(NOT)**
 
-- MUST Avoid the internet and all of it's pitfalls.
-- Electronic voting MUST ensure true anonominity.
-- Votes MUST be detached from the Voter.
-- MUST ensure accountablility of tallied voters.
-- MUST Avoid human intervention where ever possible.
-- SHOULD Avoid mechanical buttons/indicators.
+- **MUST** Avoid the internet and all of it's pitfalls.
+- Electronic voting **MUST** ensure true anonominity.
+- Votes **MUST** be detached from the Voter.
+- **MUST** ensure accountablility of tallied voters.
+- **MUST** Avoid human intervention where ever possible.
+- **SHOULD** Avoid mechanical buttons/indicators.
   - They where out and.
   - May need to be manually reset.
-- MUST Accomodate write-in selections
-- MUST have a way to identify a voter is allowed to vote
+- **MUST** Accomodate write-in selections
+- **MUST** have a way to identify a voter is allowed to vote
   - So a Vote Fabrictor cannot just stand there pressing a button for the presidential candidate and committing them.
 
 ---
